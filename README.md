@@ -62,6 +62,7 @@ These files are optional and not strictly required for installation
 They are copied into system32 inside the Wine prefix as a fallback compatibility layer
 Most functionality is already handled by Wine + Winetricks dependencies
 They are included to improve compatibility in edge-case environments
+THEY ARE RECOMMENDED TO DOWNLOAD THOUGH, but you will have to include them from third party sources.
 
 The script does not rely on a single official redistribution source for these DLLs, therefore their use is treated as best-effort and optional.
 
